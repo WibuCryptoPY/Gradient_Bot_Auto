@@ -1,0 +1,10 @@
+threads: 5
+invite_code: ""
+capsolver_api_key: ""
+
+delay_before_start:
+  min: 5
+  max: 10
+
+imap_settings:
+  
